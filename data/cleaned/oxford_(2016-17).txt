@@ -1,0 +1,1429 @@
+UKPRN	HE_Provider	Academic_employment_function	Contract_levels	Sex	Academic_Year	Contract_salary	Number	Salary_Band
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	95	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Total	270	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	245	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	45	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Total	1710	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	15	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Total	15	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £59,400	165	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Total	175	NA
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £59,400	50	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Total	55	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	180	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Total	565	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	390	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	115	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Total	2225	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	80	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Total	85	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	25	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £59,400	535	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Total	555	NA
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £59,400	105	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Total	120	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	270	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £59,400	445	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Total	835	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	100	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Total	105	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £59,400	700	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Total	730	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	635	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £59,400	160	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Total	3935	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Total	40	NA
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £59,400	155	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Total	175	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Total	45	NA
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	915	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £59,400	605	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Total	4820	NA
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £59,400	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Total	150	NA
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £59,400	855	Band_6
+10007774	The University of Oxford	All	Professor	All	2016/17	Total	900	NA
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1035	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	340	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £59,400	175	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Total	2005	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Total	40	NA
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £59,400	210	Band_6
+10007774	The University of Oxford	All	Professor	Female	2016/17	Total	230	NA
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	575	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Total	2815	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Total	115	NA
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £59,400	640	Band_6
+10007774	The University of Oxford	All	Professor	Male	2016/17	Total	675	NA
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	965	Band_5
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £59,400	1605	Band_6
+10007774	The University of Oxford	All	All	All	2016/17	Total	5870	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	300	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £59,400	1245	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Total	1670	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	650	Band_5
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £59,400	355	Band_6
+10007774	The University of Oxford	Research only	All	All	2016/17	Total	4145	NA
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Total	45	NA
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1040	Band_4
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	355	Band_5
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	All	Female	2016/17	Total	2270	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	100	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Total	465	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	250	Band_5
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	Research only	All	Female	2016/17	Total	1780	NA
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	610	Band_5
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £59,400	1180	Band_6
+10007774	The University of Oxford	All	All	Male	2016/17	Total	3600	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £59,400	930	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Total	1205	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	400	Band_5
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £59,400	245	Band_6
+10007774	The University of Oxford	Research only	All	Male	2016/17	Total	2365	NA
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	965	Band_5
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £59,400	1605	Band_6
+10007774	The University of Oxford	All	All	All	2016/17	Total	5870	NA
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	915	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £59,400	605	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Total	4820	NA
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £59,400	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Total	150	NA
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £59,400	855	Band_6
+10007774	The University of Oxford	All	Professor	All	2016/17	Total	900	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	300	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £59,400	1245	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	270	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £59,400	445	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Total	835	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	100	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Total	105	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £59,400	700	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Total	730	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	650	Band_5
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £59,400	355	Band_6
+10007774	The University of Oxford	Research only	All	All	2016/17	Total	4145	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	635	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £59,400	160	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Total	3935	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Total	40	NA
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £59,400	155	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Total	175	NA
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Total	45	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Total	45	NA
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1040	Band_4
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	355	Band_5
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	All	Female	2016/17	Total	2270	NA
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1035	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	340	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £59,400	175	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Total	2005	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Total	40	NA
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £59,400	210	Band_6
+10007774	The University of Oxford	All	Professor	Female	2016/17	Total	230	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	100	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Total	465	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	95	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Total	270	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £59,400	165	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Total	175	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	250	Band_5
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	Research only	All	Female	2016/17	Total	1780	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	245	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	45	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Total	1710	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	15	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Total	15	NA
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £59,400	50	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Total	55	NA
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	610	Band_5
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £59,400	1180	Band_6
+10007774	The University of Oxford	All	All	Male	2016/17	Total	3600	NA
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	575	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Total	2815	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Total	115	NA
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £59,400	640	Band_6
+10007774	The University of Oxford	All	Professor	Male	2016/17	Total	675	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £59,400	930	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Total	1205	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	180	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Total	565	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	80	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Total	85	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £59,400	535	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Total	555	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	400	Band_5
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £59,400	245	Band_6
+10007774	The University of Oxford	Research only	All	Male	2016/17	Total	2365	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	390	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	115	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Total	2225	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	25	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £59,400	105	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Total	120	NA
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	965	Band_5
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £59,400	1605	Band_6
+10007774	The University of Oxford	All	All	All	2016/17	Total	5870	NA
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	915	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £59,400	605	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Total	4820	NA
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £59,400	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Total	150	NA
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £59,400	855	Band_6
+10007774	The University of Oxford	All	Professor	All	2016/17	Total	900	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	300	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £59,400	1245	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	270	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £59,400	445	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Total	835	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	100	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Total	105	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £59,400	700	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Total	730	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	650	Band_5
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £59,400	355	Band_6
+10007774	The University of Oxford	Research only	All	All	2016/17	Total	4145	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	635	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £59,400	160	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Total	3935	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Total	40	NA
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £59,400	155	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Total	175	NA
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Total	45	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Total	45	NA
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	965	Band_5
+10007774	The University of Oxford	All	All	All	2016/17	Contract salary ≥ £59,400	1605	Band_6
+10007774	The University of Oxford	All	All	All	2016/17	Total	5870	NA
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	850	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2445	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	915	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Contract salary ≥ £59,400	605	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2016/17	Total	4820	NA
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Contract salary ≥ £59,400	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2016/17	Total	150	NA
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2016/17	Contract salary ≥ £59,400	855	Band_6
+10007774	The University of Oxford	All	Professor	All	2016/17	Total	900	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	300	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Contract salary ≥ £59,400	1245	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2016/17	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	105	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	270	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Contract salary ≥ £59,400	445	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2016/17	Total	835	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	100	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2016/17	Total	105	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Contract salary ≥ £59,400	700	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2016/17	Total	730	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Contract salary ≥ £59,400	10	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2016/17	Total	10	NA
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	650	Band_5
+10007774	The University of Oxford	Research only	All	All	2016/17	Contract salary ≥ £59,400	355	Band_6
+10007774	The University of Oxford	Research only	All	All	2016/17	Total	4145	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	830	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	2310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	635	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Contract salary ≥ £59,400	160	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2016/17	Total	3935	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2016/17	Total	40	NA
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Contract salary ≥ £59,400	155	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2016/17	Total	175	NA
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2016/17	Total	45	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £32,958 and < £44,240	30	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2016/17	Total	45	NA
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1040	Band_4
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	355	Band_5
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	All	Female	2016/17	Total	2270	NA
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1035	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	340	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £59,400	175	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Total	2005	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Total	40	NA
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £59,400	210	Band_6
+10007774	The University of Oxford	All	Professor	Female	2016/17	Total	230	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	100	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Total	465	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	95	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Total	270	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £59,400	165	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Total	175	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	250	Band_5
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	Research only	All	Female	2016/17	Total	1780	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	245	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	45	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Total	1710	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	15	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Total	15	NA
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £59,400	50	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Total	55	NA
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1040	Band_4
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	355	Band_5
+10007774	The University of Oxford	All	All	Female	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	All	Female	2016/17	Total	2270	NA
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	1035	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	340	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Contract salary ≥ £59,400	175	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2016/17	Total	2005	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	40	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2016/17	Total	40	NA
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	5	Band_4
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2016/17	Contract salary ≥ £59,400	210	Band_6
+10007774	The University of Oxford	All	Professor	Female	2016/17	Total	230	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	100	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2016/17	Total	465	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	40	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	95	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2016/17	Total	270	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Contract salary ≥ £59,400	165	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2016/17	Total	175	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Female	2016/17	Total	0	NA
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	250	Band_5
+10007774	The University of Oxford	Research only	All	Female	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	Research only	All	Female	2016/17	Total	1780	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	440	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	980	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	245	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	45	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2016/17	Total	1710	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Contract salary ≥ £59,400	15	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2016/17	Total	15	NA
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Contract salary ≥ £59,400	50	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2016/17	Total	55	NA
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2016/17	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	610	Band_5
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £59,400	1180	Band_6
+10007774	The University of Oxford	All	All	Male	2016/17	Total	3600	NA
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	575	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Total	2815	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Total	115	NA
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £59,400	640	Band_6
+10007774	The University of Oxford	All	Professor	Male	2016/17	Total	675	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £59,400	930	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Total	1205	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	180	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Total	565	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	80	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Total	85	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £59,400	535	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Total	555	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	400	Band_5
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £59,400	245	Band_6
+10007774	The University of Oxford	Research only	All	Male	2016/17	Total	2365	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	390	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	115	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Total	2225	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	25	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £59,400	105	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Total	120	NA
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	610	Band_5
+10007774	The University of Oxford	All	All	Male	2016/17	Contract salary ≥ £59,400	1180	Band_6
+10007774	The University of Oxford	All	All	Male	2016/17	Total	3600	NA
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	400	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1410	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	575	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Contract salary ≥ £59,400	430	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2016/17	Total	2815	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	110	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2016/17	Total	115	NA
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2016/17	Contract salary ≥ £59,400	640	Band_6
+10007774	The University of Oxford	All	Professor	Male	2016/17	Total	675	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Contract salary ≥ £59,400	930	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2016/17	Total	1205	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	10	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	65	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	180	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	315	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2016/17	Total	565	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	80	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2016/17	Total	85	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Contract salary ≥ £59,400	535	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2016/17	Total	555	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2016/17	Total	0	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2016/17	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	400	Band_5
+10007774	The University of Oxford	Research only	All	Male	2016/17	Contract salary ≥ £59,400	245	Band_6
+10007774	The University of Oxford	Research only	All	Male	2016/17	Total	2365	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	390	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	1330	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	390	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	115	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2016/17	Total	2225	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Contract salary ≥ £59,400	25	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Contract salary ≥ £59,400	105	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2016/17	Total	120	NA
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2016/17	Total	25	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary < £18,412	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £18,412 and < £24,565	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £24,565 and < £32,958	5	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £32,958 and < £44,240	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £44,240 and < £59,400	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Contract salary ≥ £59,400	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2016/17	Total	25	NA

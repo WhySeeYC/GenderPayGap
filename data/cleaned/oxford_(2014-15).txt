@@ -1,0 +1,1401 @@
+UKPRN	HE_Provider	Academic_employment_function	Contract_levels	Sex	Academic_Year	Contract_salary	Number	Salary_Band
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	90	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Total	275	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	260	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	70	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Total	1800	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	10	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Total	10	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Total	155	NA
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £58,172	40	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Total	45	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	175	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	330	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Total	580	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	415	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	170	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Total	2315	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	95	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Total	100	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Total	25	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £58,172	525	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Total	545	NA
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £58,172	100	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Total	110	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £58,172	455	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Total	850	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	115	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Total	120	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £58,172	670	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Total	705	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	675	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £58,172	235	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Total	4115	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Total	35	NA
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £58,172	140	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Total	155	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Total	40	NA
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2485	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	950	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £58,172	695	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Total	5010	NA
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Total	155	NA
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £58,172	810	Band_6
+10007774	The University of Oxford	All	Professor	All	2014/15	Total	860	NA
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	350	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £58,172	195	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Total	2095	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Total	30	NA
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £58,172	190	Band_6
+10007774	The University of Oxford	All	Professor	Female	2014/15	Total	205	NA
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	600	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £58,172	500	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Total	2920	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Total	125	NA
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £58,172	620	Band_6
+10007774	The University of Oxford	All	Professor	Male	2014/15	Total	655	NA
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2490	Band_4
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	1000	Band_5
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £58,172	1655	Band_6
+10007774	The University of Oxford	All	All	All	2014/15	Total	6025	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	295	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Total	1670	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Total	15	NA
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	690	Band_5
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £58,172	405	Band_6
+10007774	The University of Oxford	Research only	All	All	2014/15	Total	4305	NA
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Total	40	NA
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	365	Band_5
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £58,172	415	Band_6
+10007774	The University of Oxford	All	All	Female	2014/15	Total	2330	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	95	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £58,172	295	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Total	450	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	Research only	All	Female	2014/15	Total	1855	NA
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	635	Band_5
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	All	All	Male	2014/15	Total	3700	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £58,172	945	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Total	1225	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Total	10	NA
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	425	Band_5
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £58,172	290	Band_6
+10007774	The University of Oxford	Research only	All	Male	2014/15	Total	2445	NA
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2490	Band_4
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	1000	Band_5
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £58,172	1655	Band_6
+10007774	The University of Oxford	All	All	All	2014/15	Total	6025	NA
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2485	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	950	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £58,172	695	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Total	5010	NA
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Total	155	NA
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £58,172	810	Band_6
+10007774	The University of Oxford	All	Professor	All	2014/15	Total	860	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	295	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £58,172	455	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Total	850	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	115	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Total	120	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £58,172	670	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Total	705	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Total	15	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	690	Band_5
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £58,172	405	Band_6
+10007774	The University of Oxford	Research only	All	All	2014/15	Total	4305	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	675	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £58,172	235	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Total	4115	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Total	35	NA
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £58,172	140	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Total	155	NA
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Total	40	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Total	40	NA
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	365	Band_5
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £58,172	415	Band_6
+10007774	The University of Oxford	All	All	Female	2014/15	Total	2330	NA
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	350	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £58,172	195	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Total	2095	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Total	30	NA
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £58,172	190	Band_6
+10007774	The University of Oxford	All	Professor	Female	2014/15	Total	205	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	95	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £58,172	295	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Total	450	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	90	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Total	275	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Total	155	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	Research only	All	Female	2014/15	Total	1855	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	260	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	70	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Total	1800	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	10	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Total	10	NA
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £58,172	40	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Total	45	NA
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	635	Band_5
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	All	All	Male	2014/15	Total	3700	NA
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	600	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £58,172	500	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Total	2920	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Total	125	NA
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £58,172	620	Band_6
+10007774	The University of Oxford	All	Professor	Male	2014/15	Total	655	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £58,172	945	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Total	1225	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	175	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	330	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Total	580	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	95	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Total	100	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £58,172	525	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Total	545	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	425	Band_5
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £58,172	290	Band_6
+10007774	The University of Oxford	Research only	All	Male	2014/15	Total	2445	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	415	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	170	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Total	2315	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £58,172	100	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Total	110	NA
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2490	Band_4
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	1000	Band_5
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £58,172	1655	Band_6
+10007774	The University of Oxford	All	All	All	2014/15	Total	6025	NA
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2485	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	950	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £58,172	695	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Total	5010	NA
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Total	155	NA
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £58,172	810	Band_6
+10007774	The University of Oxford	All	Professor	All	2014/15	Total	860	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	295	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £58,172	455	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Total	850	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	115	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Total	120	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £58,172	670	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Total	705	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Total	15	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	690	Band_5
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £58,172	405	Band_6
+10007774	The University of Oxford	Research only	All	All	2014/15	Total	4305	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	675	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £58,172	235	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Total	4115	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Total	35	NA
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £58,172	140	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Total	155	NA
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Total	40	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Total	40	NA
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2490	Band_4
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	1000	Band_5
+10007774	The University of Oxford	All	All	All	2014/15	Contract salary ≥ £58,172	1655	Band_6
+10007774	The University of Oxford	All	All	All	2014/15	Total	6025	NA
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	880	Band_3
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2485	Band_4
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	950	Band_5
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Contract salary ≥ £58,172	695	Band_6
+10007774	The University of Oxford	All	Other contract level	All	2014/15	Total	5010	NA
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	All	Other senior academic	All	2014/15	Total	155	NA
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	45	Band_5
+10007774	The University of Oxford	All	Professor	All	2014/15	Contract salary ≥ £58,172	810	Band_6
+10007774	The University of Oxford	All	Professor	All	2014/15	Total	860	NA
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	295	Band_5
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	Both teaching and research	All	All	2014/15	Total	1670	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	15	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	120	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Contract salary ≥ £58,172	455	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	All	2014/15	Total	850	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	115	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	All	2014/15	Total	120	NA
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Contract salary ≥ £58,172	670	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	All	2014/15	Total	705	NA
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	All	2014/15	Total	15	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	5	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	All	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	All	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	690	Band_5
+10007774	The University of Oxford	Research only	All	All	2014/15	Contract salary ≥ £58,172	405	Band_6
+10007774	The University of Oxford	Research only	All	All	2014/15	Total	4305	NA
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	865	Band_3
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	2340	Band_4
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	675	Band_5
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Contract salary ≥ £58,172	235	Band_6
+10007774	The University of Oxford	Research only	Other contract level	All	2014/15	Total	4115	NA
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	All	2014/15	Total	35	NA
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Contract salary ≥ £58,172	140	Band_6
+10007774	The University of Oxford	Research only	Professor	All	2014/15	Total	155	NA
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	All	2014/15	Total	40	NA
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £32,277 and < £43,325	25	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	All	2014/15	Total	40	NA
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	365	Band_5
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £58,172	415	Band_6
+10007774	The University of Oxford	All	All	Female	2014/15	Total	2330	NA
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	350	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £58,172	195	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Total	2095	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Total	30	NA
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £58,172	190	Band_6
+10007774	The University of Oxford	All	Professor	Female	2014/15	Total	205	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	95	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £58,172	295	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Total	450	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	90	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Total	275	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Total	155	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	Research only	All	Female	2014/15	Total	1855	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	260	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	70	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Total	1800	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	10	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Total	10	NA
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £58,172	40	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Total	45	NA
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	365	Band_5
+10007774	The University of Oxford	All	All	Female	2014/15	Contract salary ≥ £58,172	415	Band_6
+10007774	The University of Oxford	All	All	Female	2014/15	Total	2330	NA
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	450	Band_3
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1095	Band_4
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	350	Band_5
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Contract salary ≥ £58,172	195	Band_6
+10007774	The University of Oxford	All	Other contract level	Female	2014/15	Total	2095	NA
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	30	Band_6
+10007774	The University of Oxford	All	Other senior academic	Female	2014/15	Total	30	NA
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	15	Band_5
+10007774	The University of Oxford	All	Professor	Female	2014/15	Contract salary ≥ £58,172	190	Band_6
+10007774	The University of Oxford	All	Professor	Female	2014/15	Total	205	NA
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	95	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Contract salary ≥ £58,172	295	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Female	2014/15	Total	450	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	50	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	90	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	130	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Female	2014/15	Total	275	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Contract salary ≥ £58,172	150	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Female	2014/15	Total	155	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Female	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	265	Band_5
+10007774	The University of Oxford	Research only	All	Female	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	Research only	All	Female	2014/15	Total	1855	NA
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	445	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	1030	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	260	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	70	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Female	2014/15	Total	1800	NA
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Contract salary ≥ £58,172	10	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Female	2014/15	Total	10	NA
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Contract salary ≥ £58,172	40	Band_6
+10007774	The University of Oxford	Research only	Professor	Female	2014/15	Total	45	NA
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £32,277 and < £43,325	15	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Female	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	635	Band_5
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	All	All	Male	2014/15	Total	3700	NA
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	600	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £58,172	500	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Total	2920	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Total	125	NA
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £58,172	620	Band_6
+10007774	The University of Oxford	All	Professor	Male	2014/15	Total	655	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £58,172	945	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Total	1225	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	175	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	330	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Total	580	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	95	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Total	100	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £58,172	525	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Total	545	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	425	Band_5
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £58,172	290	Band_6
+10007774	The University of Oxford	Research only	All	Male	2014/15	Total	2445	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	415	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	170	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Total	2315	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £58,172	100	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Total	110	NA
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	635	Band_5
+10007774	The University of Oxford	All	All	Male	2014/15	Contract salary ≥ £58,172	1240	Band_6
+10007774	The University of Oxford	All	All	Male	2014/15	Total	3700	NA
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	430	Band_3
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1390	Band_4
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	600	Band_5
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Contract salary ≥ £58,172	500	Band_6
+10007774	The University of Oxford	All	Other contract level	Male	2014/15	Total	2920	NA
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	120	Band_6
+10007774	The University of Oxford	All	Other senior academic	Male	2014/15	Total	125	NA
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	30	Band_5
+10007774	The University of Oxford	All	Professor	Male	2014/15	Contract salary ≥ £58,172	620	Band_6
+10007774	The University of Oxford	All	Professor	Male	2014/15	Total	655	NA
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	200	Band_5
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Contract salary ≥ £58,172	945	Band_6
+10007774	The University of Oxford	Both teaching and research	All	Male	2014/15	Total	1225	NA
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	5	Band_3
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	70	Band_4
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	175	Band_5
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	330	Band_6
+10007774	The University of Oxford	Both teaching and research	Other contract level	Male	2014/15	Total	580	NA
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	5	Band_5
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	95	Band_6
+10007774	The University of Oxford	Both teaching and research	Other senior academic	Male	2014/15	Total	100	NA
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	20	Band_5
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Contract salary ≥ £58,172	525	Band_6
+10007774	The University of Oxford	Both teaching and research	Professor	Male	2014/15	Total	545	NA
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	All	Male	2014/15	Total	10	NA
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other contract level	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	5	Band_6
+10007774	The University of Oxford	Neither teaching nor research	Other senior academic	Male	2014/15	Total	5	NA
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	425	Band_5
+10007774	The University of Oxford	Research only	All	Male	2014/15	Contract salary ≥ £58,172	290	Band_6
+10007774	The University of Oxford	Research only	All	Male	2014/15	Total	2445	NA
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	420	Band_3
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	1310	Band_4
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	415	Band_5
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	170	Band_6
+10007774	The University of Oxford	Research only	Other contract level	Male	2014/15	Total	2315	NA
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	0	Band_5
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Contract salary ≥ £58,172	20	Band_6
+10007774	The University of Oxford	Research only	Other senior academic	Male	2014/15	Total	25	NA
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	0	Band_4
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Contract salary ≥ £58,172	100	Band_6
+10007774	The University of Oxford	Research only	Professor	Male	2014/15	Total	110	NA
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	All	Male	2014/15	Total	20	NA
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary < £18,031	0	Band_1
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £18,031 and < £24,057	0	Band_2
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £24,057 and < £32,277	0	Band_3
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £32,277 and < £43,325	10	Band_4
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £43,325 and < £58,172	10	Band_5
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Contract salary ≥ £58,172	0	Band_6
+10007774	The University of Oxford	Teaching only	Other contract level	Male	2014/15	Total	20	NA
