@@ -13,7 +13,7 @@ Stats consultathon
 ## Model for predicting salary band given sex and academic employment function:
 
 1. Adjusted for academic employment function (i.e. research, teaching, or combined), men are 1.51 (95\% CI = 1.49-1.53) times more likely to be in a higher salary band than women.
-2. Adjusted for gender, those in research-only roles are 27.9 (27.3-28.6) times more likely to be in a higher salary band than those that do both research and teaching; those in teaching-only roles are 25.8 (23.8-27.9) times more likely to be in a higher salary band than those that do both research and teaching.  
+2. Adjusted for gender, those in research-only roles are 27.9 (27.3-28.6) times less likely to be in a higher salary band than those that do both research and teaching; those in teaching-only roles are 25.8 (23.8-27.9) times less likely to be in a higher salary band than those that do both research and teaching.  
 
 
 
