@@ -8,6 +8,8 @@ Stats consultathon
 
 ### Assumptions
 
+1. Salary pay bands are comparable across years even if the raw salaries change (for example, lowest band in 2013 is equivalent to lowest band in 2023).
+
 
 
 
