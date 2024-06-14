@@ -10,6 +10,13 @@ Stats consultathon
 
 1. Salary pay bands are comparable across years even if the raw salaries change (for example, lowest band in 2013 is equivalent to lowest band in 2023).
 
+## Model for predicting salary band given sex and academic employment function:
+
+Ordinal logistic regression under the assumption of proportional changes across categories - that the jump from band 3 to 4 is equivalent to the jump from band 4 to 5, etc..
+
+1. Adjusted for academic employment function (i.e. research, teaching, or combined), men are 1.51 (95\% CI = 1.49-1.53) times more likely to be in a higher salary band than women.
+2. Adjusted for gender, those in research-only roles are 27.9 (27.3-28.6) times less likely to be in a higher salary band than those that do both research and teaching; those in teaching-only roles are 25.8 (23.8-27.9) times less likely to be in a higher salary band than those that do both research and teaching.  
+
 
 
 
