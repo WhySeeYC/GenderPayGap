@@ -24,15 +24,20 @@ prop_df <- sum_df %>%
 
 prop_df <- prop_df[which(is.element(prop_df$Salary_Band,c("Band_3","Band_4","Band_5","Band_6"))),]
 
-prop_within_band_plot <- ggplot(prop_df, aes(x = Academic_Year, y = prop_female,
+
+png("plots/1_prop_women_bands_oxford.png",
+    width = 1400,height=1000, pointsize=23)
+ggplot(prop_df, aes(x = Academic_Year, y = prop_female,
                     colour = Salary_Band, fill = Salary_Band,
                     group = Salary_Band)) +
-  geom_point() +
-  geom_line()  +
-  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6])
-
-ggsave("plots/1_prop_women_bands_oxford.png",
-       prop_within_band_plot)
+  geom_point(cex=5) +
+  geom_line(lwd=2) +
+  scale_y_continuous(name="Proportion in band who are Female") +
+  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6]) +
+  theme(text=element_text(size=23),
+        axis.text.x=element_text(size=25),
+        axis.text.y=element_text(size=25))
+dev.off()
 
 ########
 # Plot of number_of_women_in_band/total_number_of_women
@@ -63,22 +68,31 @@ count_df_band_long <- count_df_band %>%
 
 scale_color_brewer("Blues")
 
-count_across_band_women_plot <- ggplot(count_df_band_long[which(count_df_band_long$Sex=="Female"),], aes(x = Academic_Year, y = value,
+png("plots/2_count_across_band_women_plot.png",
+    width = 1400,height=1000)
+ggplot(count_df_band_long[which(count_df_band_long$Sex=="Female"),], aes(x = Academic_Year, y = value,
                                   colour = Band, fill = Band,
                                   group = Band)) +
-  geom_point() +
-  geom_line() +
+  geom_point(cex=5) +
+  geom_line(lwd=2) +
   scale_y_continuous(limits=c(0,25000), name = "Counts") +
-  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6])
-count_across_band_men_plot <- ggplot(count_df_band_long[which(count_df_band_long$Sex=="Male"),], aes(x = Academic_Year, y = value,
+  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6]) +
+  theme(text=element_text(size=23),
+        axis.text.x=element_text(size=25),
+        axis.text.y=element_text(size=25))
+dev.off()
+
+png("plots/2_count_across_band_men_plot.png",
+    width = 1400,height=1000, pointsize=23)
+ggplot(count_df_band_long[which(count_df_band_long$Sex=="Male"),], aes(x = Academic_Year, y = value,
                                                                        colour = Band, fill = Band,
                                                                        group = Band)) +
-  geom_point() +
-  geom_line() +
+  geom_point(cex=5) +
+  geom_line(lwd=2) +
   scale_y_continuous(limits=c(0,25000), name = "Counts") +
-  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6])
-ggsave("plots/2_count_across_band_women_plot.png",
-       count_across_band_women_plot)
-ggsave("plots/2_count_across_band_men_plot.png",
-       count_across_band_men_plot)
+  scale_color_manual(values=brewer.pal(n = 6, name = "Blues")[3:6]) +
+  theme(text=element_text(size=23),
+        axis.text.x=element_text(size=25),
+        axis.text.y=element_text(size=25))
+dev.off()
 
